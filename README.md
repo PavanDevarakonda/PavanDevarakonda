@@ -37,14 +37,35 @@ From deploying HIPAA-compliant pipelines to building multimodal retrieval system
 
 ---
 
-## 🧠 Technical Stack
+## 🧰 Tech Stack
 
-**Languages**: Python, SQL, Java, R, JavaScript  
-**LLMs & NLP**: Hugging Face, OpenAI API, LangChain, Transformers, RAG, FAISS  
-**ML/DL**: PyTorch, TensorFlow, XGBoost, LSTM, CNN, Clustering, A/B Testing  
-**Data Engineering**: Apache Airflow, Spark, Kafka, DBT, Dataflow, Fivetran  
-**MLOps & Cloud**: AWS, GCP, SageMaker, Docker, Kubernetes, MLflow  
-**Visualization**: Tableau, Power BI, Grafana, Streamlit
+### 🧑‍💻 Programming Languages
+`Python` `SQL` `JavaScript` `HTML` `CSS` `Java` `C` 
+
+### 📃 Databases & Data Warehousing
+`MySQL` `PostgreSQL` `Snowflake` `Redshift` `MongoDB`
+
+### ☁️ Data Engineering & Cloud Platforms
+`Apache Airflow` `GCP (BigQuery, Cloud Composer, Cloud Run)`  
+`AWS (S3, Glue, Redshift)` `Snowflake` `Hadoop` `Kafka` `PySpark` `Docker` `Kubernetes` `DBT` `Terraform`
+
+### 📈 Data Analysis & Visualization
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`  
+`Power BI` `Tableau` `Looker Studio` `Grafana` 
+
+### 🤖 Machine Learning
+`Scikit-learn` `XGBoost` `k-Nearest Neighbors` `TF-IDF`  
+`Random Forest` `SVM` `K-Means` `Collaborative Filtering`  
+`Time Series Forecasting` `A/B Testing` `SageMaker` `MLflow`
+
+### 🧠 Deep Learning & Generative AI
+`TensorFlow` `PyTorch` `Keras` `CNN` `LSTM` `RNN`  
+`LLMs` `NLP` `RAG` `LangChain` `LangGraph` `LangSmith`  
+`Stable Diffusion` `CycleGAN` `ChromaDB` `Pinecone` `Sentence Transformers` 
+
+### 🗓️ Tools & Frameworks
+`FastAPI` `Flask` `ReactJS` `Streamlit` 
+`Git` `Jupyter Notebook` `VS Code` `Linux` `Conda` 
 
 ---
 
