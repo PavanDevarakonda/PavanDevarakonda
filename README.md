@@ -1,11 +1,9 @@
 <h1 align="center">👋 Hi, I'm Pavan Srivatsav Devarakonda</h1>
 
 <p align="center">
-🎓 MS in Data Analytics @ San Jose State University • 💼 Ex-Healthcare AI Engineer  
-📍 Passionate about Generative AI, Data Engineering, and Real-Time Analytics  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=👨‍💻+Data+Scientist+%7C+ML+Engineer+%7C+Cloud+Builder;🚀+Generative+AI+%7C+LLMs+%7C+RAG+Systems;🔗+Data+Pipelines+%7C+MLOps+%7C+AI+Tooling;📊+From+Model+Training+to+Deployment+%7C+Let's+Build!" alt="Typing SVG" />
 </p>
 
----
 
 ## 💡 About Me
 
