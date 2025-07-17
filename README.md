@@ -20,7 +20,7 @@ From deploying HIPAA-compliant pipelines to building multimodal retrieval system
 - 🧠 [Generative AI Healthcare Data Platform](https://github.com/PavanDevarakonda/generative-ai-healthcare-data-platform)  
   End-to-end EHR pipeline and LLM fine-tuning on patient records.
 
-- 📊 [Natural Language to SQL Generation System](https://github.com/PavanDevarakonda/nl-to-sql-generation-system)  
+- 📊 [Natural Language to SQL Generation System](https://github.com/PavanDevarakonda/-nl-to-sql-generation-system)  
   LLM-powered query builder with Streamlit and FAISS integration.
 
 - 📘 [Multimodal Knowledge Retrieval Framework](https://github.com/PavanDevarakonda/multimodal-knowledge-retrieval)  
