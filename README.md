@@ -33,8 +33,9 @@ From deploying HIPAA-compliant pipelines to building multimodal retrieval system
 - 📰 [Media Analytics & Customer Behavior Intelligence](https://github.com/PavanDevarakonda/media-analytics-intelligence)  
   ML + Airflow + DBT pipeline for scalable article and reader engagement analysis.
 
-- 🖥️ [Leave Management MCP Server](https://github.com/YourUsername/leave-management-mcp-server)
-  👥 Employee leave tracking · 🗓️ Holiday validation · 💾 JSON storage · 🧪 Rule-based logic.
+- 🖥️ [Leave Management MCP Server](https://github.com/YourUsername/leave-management-mcp-server)  
+  👥 Employee leave tracking · 🗓️ Holiday validation · 💾 JSON storage · 🧪 Rule-based logic
+
 
 ---
 
