@@ -42,6 +42,10 @@ From deploying HIPAA-compliant pipelines to building multimodal retrieval system
 - 🌍 [SeqTransPy: Neural Machine Translation](https://github.com/PavanDevarakonda/seqtranspy-nmt)  
   🔁 Seq2Seq translation model built with PyTorch, TorchText, and spaCy · 🧠 Encoder-Decoder GRU/LSTM · ✍️ English–French tokenization and training
 
+- 🖼️ [SRNet: Deep Learning for Image Super-Resolution](https://github.com/PavanDevarakonda/srnet-image-superresolution)  
+  🔍 Enhances low-resolution images using a PyTorch CNN · 🧠 Custom model for single-image super-resolution · 📈 Evaluated with PSNR
+
+
 
 
 
