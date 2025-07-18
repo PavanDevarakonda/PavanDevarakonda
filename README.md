@@ -36,7 +36,7 @@ From deploying HIPAA-compliant pipelines to building multimodal retrieval system
 - 🖥️ [Leave Management MCP Server](https://github.com/PavanDevarakonda/mcp-server)  
   👥 Employee leave tracking · 🗓️ Holiday validation · 💾 JSON storage · 🧪 Rule-based logic
 
--- 🎨 [PromptCraft: Fine-Tuning Stable Diffusion](https://github.com/PavanDevarakonda/promptcraft-stable-diffusion)  
+-  🎨 [PromptCraft: Fine-Tuning Stable Diffusion](https://github.com/PavanDevarakonda/promptcraft-stable-diffusion)  
   🖼️ Fine-tuning SD models with custom data using LoRA/QLoRA · ✍️ Prompt-based image generation · 📊 Evaluated using CLIP & Inception Score
 
 
