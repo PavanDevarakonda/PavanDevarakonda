@@ -39,6 +39,10 @@ From deploying HIPAA-compliant pipelines to building multimodal retrieval system
 -  🎨 [PromptCraft: Fine-Tuning Stable Diffusion](https://github.com/PavanDevarakonda/promptcraft-stable-diffusion)  
   🖼️ Fine-tuning SD models with custom data using LoRA/QLoRA · ✍️ Prompt-based image generation · 📊 Evaluated using CLIP & Inception Score
 
+- 🌍 [SeqTransPy: Neural Machine Translation](https://github.com/PavanDevarakonda/seqtranspy-nmt)  
+  🔁 Seq2Seq translation model built with PyTorch, TorchText, and spaCy · 🧠 Encoder-Decoder GRU/LSTM · ✍️ English–French tokenization and training
+
+
 
 
 ---
